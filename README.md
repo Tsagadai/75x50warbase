@@ -1,9 +1,7 @@
-###
+### Codes for the Code God ###
 
-Codes for the Code God
+This is a 75mmx50mm base (for a certain English company's definition of those measurements) for 3D printing cheapskates.
 
-###
-
-This is a 75mmx50mm base for 3D printing cheapskates who have some ultra-heavy, chaotic cavalry to upgrade.
+This base is suitable for Giants, Juggernaughts and Demigryphs.
 
 Enjoy.
